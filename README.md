@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+[![wjwei-handsome's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjwei-handsome&include_all_commits=true&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjwei-handsome&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wjwei-handsome)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **wjwei-handsome/wjwei-handsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
