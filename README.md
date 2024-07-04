@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm Wenjie Wei (魏文杰)
 
-### M.S. of crop genomics in HZAU now.
-
 ### Ph.D. Candidate in WestLake University.
-
 
 
 - 🌱 I’m currently learning Rust/Python/...
