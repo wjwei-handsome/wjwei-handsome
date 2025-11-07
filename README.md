@@ -9,7 +9,7 @@
   + High-performance bioinformatic tools development 
   + Multi Omics <==> Complex Pheomics
   + Multi Omics Database Web development
-- 📫 My homepage: https://www.wjwei.blog (国内需要全球通畅网络)
+- 📫 My homepage: [https://www.wjwei.blog](https://wjwei.vercel.app/) (国内需要全球通畅网络)
 
 ![wjwei-handsome's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjwei-handsome&include_all_commits=false&theme=swift&show_icons=true&count_private=true&include_orgs=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjwei-handsome&layout=compact&theme=swift)
