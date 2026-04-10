@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Wenjie Wei (魏文杰) 👋</h1>
 
 <p align="center">
-  <b>Ph.D. Student @ <a href="https://www.westlake.edu.cn/">Westlake University</a></b><br/>
+  <b>Ph.D. Student @ <a href="https://yanglab.westlake.edu.cn/">  JianYang Lab</a></b><br/>
   Genetics · Genomics · Bioinformatician · Rustacean · Open-source enthusiast
 </p>
 
@@ -15,21 +15,18 @@
 
 ### 🔬 Research Interests
 
-- **Multi-Omics ↔ Complex Phenomics** — integrating multi-layer omics data to decode complex traits
-- **Multi-Omics Database & Web development** — building data infrastructure and web portals for omics data
+- **Multi-Omics ↔ Complex Traits** — integrating multi-layer omics data to decode complex traits
 
 ---
 
 ### 💽 Featured Projects
 
-| Project | Description | Language | Stars |
-|---------|-------------|----------|-------|
-| [**wgatools**](https://github.com/wjwei-handsome/wgatools) | Whole Genome Alignment Tools | 🦀 Rust | ⭐ 223 |
-| [**Slurmer**](https://github.com/wjwei-handsome/Slurmer) | TUI monitor & manager for SLURM jobs | 🦀 Rust | ⭐ 97 |
-| [**ZeaGeneMap**](https://github.com/wjwei-handsome/ZeaGeneMap) | Gene mapping between two genomes | 🐍 Python | ⭐ 9 |
-| [**seqkit-rs**](https://github.com/wjwei-handsome/seqkit-rs) | seqkit reimplemented in Rust | 🦀 Rust | ⭐ 4 |
-| [**wjwei-blog**](https://github.com/wjwei-handsome/wjwei-blog) | Personal blog powered by Astro | ✨ MDX | ⭐ 25 |
-
+| Project | Description | Language |
+|---------|-------------|----------|
+| [**wgatools**](https://github.com/wjwei-handsome/wgatools) | Whole Genome Alignment Tools | 🦀 Rust |
+| [**Slurmer**](https://github.com/wjwei-handsome/Slurmer) | TUI monitor & manager for SLURM jobs | 🦀 Rust|
+| [**wjwei-blog**](https://github.com/wjwei-handsome/wjwei-blog) | Personal blog powered by Astro | ✨ MDX|
+| [**SpatialVista**](https://github.com/JianYang-Lab/spatial-vista-py) | Interactive 3D Spatial Transcriptomics Visualization | WebGL|
 ---
 
 ### 🛠️ Tech Stack
@@ -56,6 +53,3 @@
 
 ---
 
-<p align="center">
-  <i>"Build fast. Build correct. Build in Rust." 🦀</i>
-</p>
