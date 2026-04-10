@@ -2,12 +2,12 @@
 
 <p align="center">
   <b>Ph.D. Student @ <a href="https://www.westlake.edu.cn/">Westlake University</a></b><br/>
-  Bioinformatician · Rustacean · Open-source enthusiast
+  Genetics · Genomics · Bioinformatician · Rustacean · Open-source enthusiast
 </p>
 
 <p align="center">
   <a href="https://wjwei.vercel.app/"><img src="https://img.shields.io/badge/Blog-wjwei.blog-blue?style=flat-square&logo=astro" alt="Blog"/></a>
-  <a href="mailto:wjwei@westlake.edu.cn"><img src="https://img.shields.io/badge/Email-wjwei@westlake.edu.cn-red?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="mailto:weiwenjie@westlake.edu.cn"><img src="https://img.shields.io/badge/Email-weiwenjie@westlake.edu.cn-red?style=flat-square&logo=gmail" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=wjwei-handsome&style=flat-square&color=blueviolet" alt="Profile views"/>
 </p>
 
@@ -15,14 +15,12 @@
 
 ### 🔬 Research Interests
 
-- **Graph Pan-Genome** — building and analyzing population-level genomic graphs
-- **High-performance bioinformatic tools** — blazingly fast CLI/TUI utilities, mostly in 🦀 Rust
 - **Multi-Omics ↔ Complex Phenomics** — integrating multi-layer omics data to decode complex traits
 - **Multi-Omics Database & Web development** — building data infrastructure and web portals for omics data
 
 ---
 
-### �� Featured Projects
+### 💽 Featured Projects
 
 | Project | Description | Language | Stars |
 |---------|-------------|----------|-------|
